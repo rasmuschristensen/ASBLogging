@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ServiceBusConnection": "",
+    "InputQueue": "blog",
+    "AzureWebJobs.Run.Disabled": false,
+    "AzureWebJobs.RunAsync.Disabled": true
+  }
+}
